@@ -27,12 +27,6 @@ for char in password_list:
   password_string += char
 
 print(f"Your password is {password_string}")
-
-
-listy = [1, 2, 3]
-
-for siudfhsiudfsud in listy:
-  print(siudfhsiudfsud)
   
   
   
